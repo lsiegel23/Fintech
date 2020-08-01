@@ -1,5 +1,5 @@
-# TITLE
-BlackRock and the Role of FinTech
+# BlackRock and the Role of FinTech
+
 
 ## Overview and Origin
 
