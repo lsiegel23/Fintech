@@ -1,22 +1,24 @@
 # BlackRock and the Role of FinTech
+![image](blackrock_logo.png)
 
 
 ## Overview and Origin
 
-* Name of company
+* Name of company  
     BlackRock
 
+
 * When was the company incorporated?
-    1988 according to their website https://www.blackrock.com/corporate/about-us/blackrock-history
+    1988 according to their [website](https://www.blackrock.com/corporate/about-us/blackrock-history)
 
 * Who are the founders of the company?
     The founders of BlackRock are Larry Fink, Robert S. Kapito, Susan Wagner, Ben Golub, Barbara Novick, Hugh Frater, Keith Anderson, and Ralph Schlosstein
 
 * How did the idea for the company (or project) come about?
-    In short the idea for the company came about because these 8 people all shared the same dream. That dream was to "shared a determination to put clients’ needs and interests first. Our founders believed they could manage assets in a way that was better for their clients – by utilizing their passion for understanding and managing risk. This is the way the firm continues to be managed today." https://www.blackrock.com/corporate/about-us/blackrock-history
+    In short the idea for the company came about because these 8 people all shared the same dream. That dream was to "shared a determination to put clients’ needs and interests first. Our founders believed they could manage assets in a way that was better for their clients – by utilizing their passion for understanding and managing risk. This is the way the firm continues to be managed today." [Source](https://www.blackrock.com/corporate/about-us/blackrock-history)
 
 * How is the company funded? How much funding have they received?
-    BlackRock was funded by selling their proprietary software "Aladdin." This allowed them to grow and eventually IPO October 1st, 1999 on the New York Stock Exchange. https://www.blackrock.com/corporate/about-us/blackrock-history
+    BlackRock was funded by selling their proprietary software "Aladdin." This allowed them to grow and eventually IPO October 1st, 1999 on the New York Stock Exchange. [Source](https://www.blackrock.com/corporate/about-us/blackrock-history)
 
 ## Business Activities:
 
